@@ -1,0 +1,101 @@
+group_id,entity_name,entity_value,image_path,extracted_text,unit
+748919,item_weight,500.0,../images/subset_train/61I9XdN6OFL.jpg,"['1\nINGREDIENTMENAGER', '100%NATURELs', '00%']",gram
+916768,item_volume,1.0,../images/subset_train/71gSRbyXmoL.jpg,"['4g', '4 LSS', '4 ', '4 J']",cup
+459516,item_weight,0.709,../images/subset_train/61BZ4zrjZXL.jpg,"['1Tablet', '0.709gEachservingcontainsApprox', '200mg', '101 ', '100mg', '0.5%Bitters', '50mg', '1%', '25mg', '0.07%alkaloids', '25mg', '0.5%Bitters', '25mg', '10%Tannins', '25mg', '5%Glycyrrhizin', '25mg', '10mg', '100\nPipernigrumfruitextract', '95%Piperine', '3.04keal', '0.13\nCarbohydrate', '051g', '02g', '0.049 ', '0.07\nFat', '0.09g', '2010forsedentarylifestyleMen']",gram
+459516,item_weight,0.709,../images/subset_train/612mrlqiI4L.jpg,['4gbBseecenee'],gram
+731432,item_weight,1400,../images/subset_train/617Tl40LOXL.jpg,"['1 ', '40 fe', '7\nEse']",milligram
+731432,item_weight,1400,../images/subset_train/61QsBSE7jgL.jpg,"['1400mg', '1400,', '365vscaul']",milligram
+731432,item_weight,1400,../images/subset_train/81xsq6vf2qL.jpg,"['2vegancapsules', '1400mg', '1 seetheingredientsinbold', '220mloffluids', '1 ', '4 M', '1.5hoursoftakingmedication', '2 Sweetener', '3 ', '6 ', '5 VEGAN', '8VEGANS', '3 HU', '16790C']",milligram
+731432,item_weight,1400,../images/subset_train/71DiLRHeZdL.jpg,"['1400ne', '365o', '8,\n', '1 ', '5 OF']",milligram
+731432,item_weight,1400,../images/subset_train/91Cma3RzseL.jpg,"['100%', '10 e', '4 S', '7s']",milligram
+731432,item_weight,1400,../images/subset_train/71jBLhmTNlL.jpg,"['6\n', '10 Horbaach']",milligram
+149159,item_weight,30.0,../images/subset_train/81N73b5khVL.jpg,"['77\nGroke', '48DasMaterialist', '5mm', '30KG', '32 aufnehmen']",kilogram
+308856,item_weight,10 kilogram to 15,../images/subset_train/61oMj2iXOuL.jpg,"['13cm', '2cm', '25cm', '55cm', '1 ', '12cm', '13cm', '14cm', '15cm', '16cm', '10kg', '1015kg', '1525kg', '2545kg', '45kg']",kilogram
+281678,item_weight,3.53,../images/subset_train/91LPf6OjV9L.jpg,"['5 e', '4 Fy', '4 a', '4\nfi', '4\nuh', '4\n', '1BASEDY', '7 ', '44\n', '4 cS', '54 Ss', '5 S', '3 ', '4\npi', '2 g', '16NSee', '4ears', '4f']",ounce
+281678,item_weight,3.53,../images/subset_train/81fOxWWWKYL.jpg,"['2 ', '5 PORGANICS', '34 P', '4COMBATSDISEASES']",ounce
+281678,item_weight,53,../images/subset_train/81dzao1Ob4L.jpg,"['2 ', '7 FS', '29 Nee', '3\nioe', '00013 oc', '12ecfvoyinide', '1betterlifestorts', '2 NutritionalFacts', '159 BSERahiye', '09 IIA', '5 X', '3 Bae', '38Ml', '63,Block', '63,Noide', '2monthsaferopeningthepocke', '100g', '2.53o', '2\nForcustomerfeedbackS', '282 ', '5307\niaaceremcanliacckreis', '93.530\nInithonblgopic', '3,\noabvcaimtetmicntsreisecaeUSEBY', '2 i']",ounce
+281678,item_weight,100,../images/subset_train/91-iahVGEDL.jpg,"['7\nXDoesnot', '4 A', '000\n', '7 f', '35%', '7 GREENTEA', '2a', '28 ']",gram
+731432,item_weight,200,../images/subset_train/81S2+GnYpTL.jpg,"['4 o', '4 y', '5\nInstantEnergy', '9 of', '2\nzm', '4\nae', '4\nb']",gram
+731432,item_weight,1,../images/subset_train/81e2YtCOKvL.jpg,[],kilogram
+731432,item_weight,200,../images/subset_train/81RNsNEM1EL.jpg,"['2B', '7\nVVVVVVVVVVVVVVVVYY', '8O', '8a', '6aO', '8A', '8aEIEAEAAEaA', '1PerSe', '26kca', '5Y', '0g', '59.9M', '4\nPHOSPROTUS', '35mg', '1051.U', '00NScag', '5\nQUBBestBep', '4\nY', '7ndid', '5Superchemnfh']",gram
+731432,item_weight,200,../images/subset_train/91prZeizZnL.jpg,"['4 y', '6EEELELLLeOEEES', '3 vy', '7, S', '4 AX', '7 ', '1\n', '3\nUe', '4 YN', '4%ay', '5 ']",gram
+731432,item_weight,200,../images/subset_train/31EvJszFVfL.jpg,"['1h', '7\no', '4inoN', '23cm', '4\nab']",gram
+252585,item_volume,4.0,../images/subset_train/61wzlucTREL.jpg,"['2%', '3.11n', '22.2in']",gallon
+299791,item_weight,2.7,../images/subset_train/61sQ+qAKr4L.jpg,"['5 g', '4\np', '925SterlingSilver', '18KGoldPlated', '7\ny', '0.28INcH', '7MM', '7\nHighPolish', '0.07INcH', '1.8MMJ', '1642INCHExtendChain', '2.7G', '405MM', '450MM']",gram
+884560,item_weight,112,../images/subset_train/81x77l2T5NL.jpg,"['7\n', '4 ', '1495 f', '12480a', '1,', '500mfofboiling']",gram
+179080,item_weight,4.1,../images/subset_train/71nywfWZUwL.jpg,"['9.1cmI', '3.58%', '36.8cm', '14.48\n', '5\n', '17.8 ', '41eoreerf', '13Ah', '2500mAh', '17.5AhSamsungLGCell', '3500mAhSenditrandomly', '8V', '13Ah', '2A', '17.5Ah', '4A', '30A', '4.4KG']",kilogram
+179080,voltage,48.0,../images/subset_train/71nywfWZUwL.jpg,"['9.1cmI', '3.58%', '36.8cm', '14.48\n', '5\n', '17.8 ', '41eoreerf', '13Ah', '2500mAh', '17.5AhSamsungLGCell', '3500mAhSenditrandomly', '8V', '13Ah', '2A', '17.5Ah', '4A', '30A', '4.4KG']",volt
+866516,item_weight,158.0,../images/subset_train/51WsuKKAVrL.jpg,"['15X', '9X', '26CM', '52x', '42x', '40CM']",gram
+866516,item_weight,158.0,../images/subset_train/61XGDKap+JL.jpg,"['2\nbx', '3 CiL', '23Jew']",gram
+459516,item_weight,5000,../images/subset_train/715vVcWJxGL.jpg,"['2 p', '4bs', '5000mg', '90Tablets']",milligram
+524635,item_weight,18.55,../images/subset_train/613v+2W4UwL.jpg,"['50ml', '8\nVerdauungstropfen', '18,55g', '20ml']",gram
+524635,item_weight,18.55,../images/subset_train/71+fn9TWQmL.jpg,"['1 ss', '8 a', '5\nu', '0\nSSI', '20 gst', '6 iG', '0, f', '5\nP', '2\nee', '3s', '2\nnth']",gram
+524635,item_weight,18.55,../images/subset_train/71aKgRRQ2wL.jpg,"['50ml', '18,55g', '20ml', '50ml', '3\nsty', '20 ml', '58 nt', '6 Benediktenkrautund']",gram
+524635,item_weight,18.55,../images/subset_train/71rKXZJrh4L.jpg,"['1 rd', '8 a', '5 U', '5B', '2 A']",gram
+524635,item_weight,18.55,../images/subset_train/71D824lbRvL.jpg,"['50m', '5 Eat', '5 iok', '2 A']",gram
+730429,item_weight,50.0,../images/subset_train/71004c9tzfL.jpg,"['1 b', '2 Z']",gram
+881883,item_weight,26.0,../images/subset_train/51bQPPtMqYL.jpg,"['4cm', '1.6in', '26g']",gram
+179080,wattage,800.0,../images/subset_train/61o2ntPNNgL.jpg,"['7 Wi', '1 eae', '1%', '7FREEWHEELS', '800W', '36V', '135MM']",watt
+179080,voltage,36.0,../images/subset_train/61o2ntPNNgL.jpg,"['7 Wi', '1 eae', '1%', '7FREEWHEELS', '800W', '36V', '135MM']",volt
+601746,item_weight,330.0,../images/subset_train/71IUuTJ8QwL.jpg,"['4\ntheyogaballwontburstsuddenly', '1 IO', '330lbsLoadBearing', '330Ibs']",pound
+487566,item_weight,31.0,../images/subset_train/915JHkwtcrL.jpg,"['71 As', '7 J', '7, y', '8 Mere', '2\nie', '1 fof', '2\nnen', '4 ', '4 f', '2a', '3 ', '1j', '2 by', '5 an', '3 GEO', '2ObFaALIgneaan', '4\nnncthaSBGTLPTAAIDIIyLigLOMMDIERN', '55a', '4 vine', '4 SE', '29\nCEILI']",ounce
+794161,item_weight,0.35,../images/subset_train/71cjrYndwIL.jpg,"['4 SKINFOOD', '9\nUf', '7Thisconcentratedandcreamy', '8809221274243\nDist', '1 TechnologyDrive', '113Irvine', '92618\nSE', '140gNetwt', '0.350z']",ounce
+639090,item_weight,35.0,../images/subset_train/81hnk2WXO3L.jpg,"['1\n', '7 iS', '19114\nCHOCOLATEMADEINBELGIUM']",gram
+752266,wattage,150.0,../images/subset_train/61HXgujoxpL.jpg,"['150W', '65\n']",watt
+752266,wattage,150.0,../images/subset_train/613G8GOyLSL.jpg,"['1NO', '0o', '8 io', '13\nwossussuuees', '1\n', '38\neee', '150W', '65 iu', '305mm', '12.00in', '32mm', '1.25in']",watt
+752266,wattage,30.0,../images/subset_train/71YyZ2iPyZL.jpg,"['3 fo', '4 Thickened', '00e', '30W', '65\nSe']",watt
+752266,wattage,30.0,../images/subset_train/81K3JwUCnQL.jpg,"['3 tf', '7 y', '3 ie', '7 fd', '4 i', '30W', '3, ', '4 a', '4\nFag', '65wajerproof', '4\nPgieSaite']",watt
+299791,item_weight,15.5,../images/subset_train/41wvffSxB4L.jpg,"['9 vai', '5.594fhf', '4 i', '50cm', '4\nAs', '2g', '4cm', '3.5cm']",gram
+237000,item_weight,200.0,../images/subset_train/91cErO-KbLL.jpg,"['6on', '1\ngee', '200GSM', '2S', '4\nadty', '4\ns', '4 ee', '7 eae', '1. C']",gram
+179080,wattage,250.0,../images/subset_train/817vo3DcCNL.jpg,"['4a', '72\nDASHERZSTUCK']",watt
+884560,item_volume,10.0,../images/subset_train/61AHQ35poHL.jpg,"['8Ue', '17 ji', '1tablet', '2,\nBoil', '3min']",ounce
+844474,item_weight,0.8,../images/subset_train/61WFh8RCQYL.jpg,"['0.8KG', '19e', '38cm', '26CM', '28CM']",kilogram
+709627,item_weight,169.0,../images/subset_train/711SATIDrmL.jpg,"['1300mAh', '100C', '14.8V', '60Plug', '169g', '1,', '1.38Inches', '1.26Inches']",gram
+299791,item_weight,10.0,../images/subset_train/61x6RSjwQIL.jpg,"['0.55inch', '0.78inch', '0.55inch', '0.66inch', '10g', '2042Extension']",gram
+523149,item_weight,7.0,../images/subset_train/613BeFNwHcL.jpg,[],gram
+630390,item_weight,750.0,../images/subset_train/61hWZdkq6WL.jpg,"['750g', '30dosiservings', '7\nStema', '5\nH', '7 hi']",gram
+810266,item_weight,160.0,../images/subset_train/71E7CU55dcL.jpg,"['8cm', '4\nSpecifications', '4\nColors', '3.Natural', '5 ', '1 y', '160 ', '3\n', '180ml', '6cm', '4 f', '9.nne']",gram
+748919,item_weight,270.0,../images/subset_train/61c+hSNnnZL.jpg,"['4 ', '4 is', '2 a', '120Nretca', '270gr', '76 ner', '1\nlll', '900\neh', '4\nfe']",gram
+993359,item_weight,500,../images/subset_train/915w0BdW-gL.jpg,"['9 twow', '6, anAKOPARKQSARKGN', '5a', '3 a', '47 i', '4 ne', '4 sey', '2 FZ', '2i', '1 By', '8902929001101 Zoe', '3SOSHQWYLALVANGATG', '4 Les', '77S', '2 oOMMINYSAZeee', '09SiSTeQADS', '0G']",gram
+731432,item_weight,1,../images/subset_train/61sx0ezNNLL.jpg,"['2fzooslege', '100%', '4\nCHOCOLATE', '4\nMILKSHAKE']",kilogram
+731432,item_weight,10,../images/subset_train/71ldprwbKrL.jpg,['8\n'],kilogram
+731432,item_weight,1,../images/subset_train/71E9iF-bmKL.jpg,['4Breakdown'],kilogram
+731432,item_weight,2.2,../images/subset_train/71sWRp1SNwL.jpg,"['1Scoop', '50g', '100gprotein', '20\nRAS', '100 ae', '100gprotein', '2000caloriediet', '415,INS', '417,Sunflower', '322,SucraloseINS', '955,Glutamine', '2 E', '23 ae', '6 ', '5 ', '4\n', '100%']",pound
+752266,wattage,60.0,../images/subset_train/61Fwq4GeTmL.jpg,"['656O', '0W', '6.600lm', '65\n', '2\n', '4 ', '120cm']",watt
+459516,item_volume,30.0,../images/subset_train/61-oj+N+BxL.jpg,"['1\nHii', '1001\ne', '9\nrio', '0p', '4 p', '4 X', '8Mullein', '7yBalance', '8he', '8uncionCPUeTSTovet', '4 ', '4\nA', '1SO']",millilitre
+459516,item_volume,30.0,../images/subset_train/71e6kJLE+LL.jpg,"['3\nI', '7 a', '3 A', '3 ', '3 ', '7 a', '64 o', '4\npee', '9iersp', '15\n']",millilitre
+459516,item_volume,30.0,../images/subset_train/71SuzaRS7gL.jpg,"['7 ee', '6 obiumMullein', '8Oeencnor', '8O', '2hours']",millilitre
+459516,item_volume,30.0,../images/subset_train/71nsfFCXF0L.jpg,"['1 ', '4 %', '4e', '3 ae', '7s', '5 p', '0 kee', '1 Ui', '4 AYN', '2 ra']",millilitre
+459516,item_volume,30.0,../images/subset_train/71hgN7yu9OL.jpg,"['2 Rye', '3\nae', '1a', '2 ', '7e']",millilitre
+529606,item_weight,2,../images/subset_train/61SmT8pkLtL.jpg,"['100%SOY', '100%BOTANICAL', '4\n', '2.GRAMSPER', '100%SoY', '4, ae', '4 j', '20ZJARIOVt', '4\nWITHLID']",ounce
+299791,item_weight,8.1,../images/subset_train/71ZtDgGX+iL.jpg,"['4 g', '4 ', '747\nony', '2\na', '4845cm', '20X', '13mm', '4 ', '8.1gAbout', '20mm', '4\n', '4 ustom', '2 f', '8 f', '13mm']",gram
+308856,item_weight,2,../images/subset_train/413FQB0ZMLL.jpg,['4\nAeA'],kilogram
+308856,item_weight,10,../images/subset_train/41EjbFu-+yL.jpg,[],kilogram
+681445,item_weight,500.0,../images/subset_train/71dWDwMhWmS.jpg,"['4\nhy', '3 il', '6hlCl', '1\nSeg', '7 ote', '7s']",kilogram
+365637,item_weight,200.0,../images/subset_train/61d6Kj80QSL.jpg,"['4 ', '7 ae', '5 yf', '4 AAAAUY', '2 y', '2029m']",gram
+365637,item_weight,200.0,../images/subset_train/71bvOuz9w1L.jpg,"['7. le', '4, Natul', '4 os', '2\nj', '4\n', '1 ay', '2. ee', '2009%']",gram
+365637,item_weight,200.0,../images/subset_train/71l0M0tMGjL.jpg,"['1g', '2 pened', '4 a', '7 Ca']",gram
+365637,item_weight,200.0,../images/subset_train/71Lpqdrpi4L.jpg,"['4fial', '2 f', '4 a']",gram
+365637,item_weight,100.0,../images/subset_train/71jLIbCcwOL.jpg,"['100gValueperServing', '00g', '2stes', '0g', '52.4218', '72\ntron', '100g', '19.416', '9\n']",gram
+365637,item_weight,200.0,../images/subset_train/718EdwGgyVL.jpg,"['4 Shs', '4 Nett', '7\n', '5\n', '0M', '2009 ae', '2009 bas', '2009\n']",gram
+487566,item_weight,5.0,../images/subset_train/713twQgCHSL.jpg,"['1 i', '8ag', '7.\nI', '4\nwa', '4 y', '1 n']",kilogram
+767202,item_weight,60.0,../images/subset_train/61I0O1qJbhS.jpg,"['60%undbehaltendabei', '2,Wee']",pound
+369753,item_volume,3.0 cubic,../images/subset_train/61eOO5IW4NL.jpg,"['7%', '7 fs', '7 aS', '7 ', '7 yy', '1TEST', '2PREP', '3CUT', '4STICK']",foot
+731432,item_weight,227,../images/subset_train/716AQpAJjZL.jpg,['3\na'],gram
+709627,item_weight,100,../images/subset_train/71FVeRd2jqL.jpg,[],gram
+639090,item_weight,190.0,../images/subset_train/81njuNSPdjL.jpg,"['7 al', '0,9%feit', '5\n', '472b', '8%', '100s', '770\nn', '709 a', '0sS', '219\ni', '0,10', '9\nLalz', '19\n', '87770 Oberschinegg']",gram
+639090,item_weight,100.0,../images/subset_train/51xfRlxWIXL.jpg,"['520kJ', '124kcal', '509\navOngesattigteFettsduren', '17,09\ndavonZucker', '14,09\nEiwei', '8 ', '2,79\nSalz', '0,109\n']",gram
+459516,item_weight,600,../images/subset_train/71duwM3SjpL.jpg,"['7\nClinicallyProvenAshwagandha', '66\n', '5%withanolides', '3 BoeAf', '600mg', '6082VcapsPlus']",milligram
+630869,item_weight,3.2,../images/subset_train/612xIhPMHqL.jpg,"['0.03INCH', '0.8MM', '0.12INcH', '3MM', '1.60IncH', '40.7MM', '3.2G', '2 ee', '925SterlingSilver', '6.342INCHExtendChain', '160mm', '450MM']",gram
+630869,item_weight,6.5,../images/subset_train/51b9JEHOriL.jpg,"['28ee', '7,\nRy', '2\nLA', '6.5g', '19cm', '45cm']",gram
+881883,item_weight,160.0,../images/subset_train/81lgxfKqUUL.jpg,"['7\n', '8. WITHATTACHEDVALANCE', '1 as', '2 Description', '160GSMJAQUARD', '4FANCYVALANCEBURGUNDYGreyLGHTBROWN', '100%Polyester', '4\na', '54x', '84418 ie', '131381\n', '7218676273514\nae', '43\n']",gram
+558374,item_weight,42.0,../images/subset_train/814sAvV89SL.jpg,"['3Pieces', '42g', '160\n%DailyValue', '0g', '0%', '0g', '0%', '0%', '15mg', '1%', '39g', '14%', '0%', '28g', '28gAddedSugars', '56%', '0g', '0%', '0%', '0%', '0%', '0%', '2,000caloriesa']",gram
+601746,item_weight,26.0,../images/subset_train/61cMeogK8gL.jpg,"['47\nae', '2\nBALLWEIGHT', '26Grams', '74Imm', '40\n']",gram
+752266,wattage,0.55,../images/subset_train/811VfR10yxL.jpg,"['2PCS', '4\nSolarpanel', '5.5V', '0.55W', '144LED', '120degrees', '37m', '65 waterproof', '1.82', '5m', '40Ct', '85Ct', '1Mode', '2 Mode', '3off', '12.4x', '9.6x', '4.8em', '14.88x', '3.80x', '1.89in', '8hours', '4.Thefirstworkmode', '5\n', '2.The', '2ndworkmodethe', '20 seconds', '3.The', '3rdworkmodeWhen']",watt
+254449,item_weight,50.0,../images/subset_train/71WLYfmMqQL.jpg,"['1 a', '7 e', '00mg', '250 comprimes', '0060d']",milligram
+523149,item_weight,10.0,../images/subset_train/61Dq3LRei9L.jpg,"['7 vs', '4 aa', '4\ni', '4\n', '3 Sat']",kilogram
+416664,wattage,49.0,../images/subset_train/71XK5d3Oh9L.jpg,[],watt
+459516,item_weight,500,../images/subset_train/61kyBEJYDeL.jpg,['60\n'],milligram
+459516,item_weight,500,../images/subset_train/71uQmsTESvL.jpg,"['1\n', '7\nHelpsControl', '7 om', '7a', '7\nEnhance']",milligram
+241608,item_weight,16.0,../images/subset_train/71jG8BOi4WL.jpg,"['16GThickHighGrade', '3O', '4StainlessSteel', '7 ie', '1 SS', '3 ad', '4\nON', '2q', '1 K', '5 A', '8AntibacterialProtection']",gram
+308856,item_weight,8,../images/subset_train/61390hosjFL.jpg,"['5.', '7 m', '4 ofaeenY', '8\nOe', '4w', '5Sacanai', '5\nd', '8\na', '4 ae', '16amcem', '221,\neS', '7\ni', '13 ry']",kilogram
